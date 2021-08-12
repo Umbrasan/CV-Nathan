@@ -1,0 +1,87 @@
+.corps {
+    background-color: rgb(29, 26, 81);
+}
+.page {
+    width: 1189px;
+    margin: auto;
+    font-family: Apple Chancery, cursive ;
+    font-size: 16px;
+    color: white;
+    padding: 10px;
+}
+.infologo{
+    height: 190px;
+    border-width:5px;
+    border-style:solid;
+    border-color: white;
+    padding: 10px;
+}
+.nom{
+    text-align: center;
+    font-size: 22px;
+    font-family: Bradley Hand, cursive ;
+}
+.info{
+    text-align: center;
+}
+.professionnelles{
+    float: left;
+    height: 950px;
+    border-width:5px;
+    border-style:solid;
+    border-color: white;
+    padding: 10px;
+}
+.titre1{
+    font-size: 20px;
+    font-family: Bradley Hand, cursive;
+}
+.compétence{
+    float: right;
+    height: 250px;
+    width: 532.75px;
+    border-width:5px;
+    border-style:solid;
+    border-color: white;
+    padding: 10px;
+}
+.titre2{
+    font-size: 20px;
+    font-family: Bradley Hand, cursive;
+}
+.réseaux{
+    float: right;
+    height: 160px;
+    width: 532.75px;
+    border-width:5px;
+    border-style:solid;
+    border-color: white;
+    padding: 10px;
+}
+.langue{
+    float: right;
+    height: 160px;
+    width: 532.75px;
+    border-width:5px;
+    border-style:solid;
+    border-color: white;
+    padding: 10px;
+}
+.formation{
+    float: right;
+    height: 180px;
+    width: 532.75px;
+    border-width:5px;
+    border-style:solid;
+    border-color: white;
+    padding: 10px;
+}
+.intérêt{
+    float: right;
+    height: 80px;
+    width: 532.75px;
+    border-width:5px;
+    border-style:solid;
+    border-color: white;
+    padding: 10px;
+}
